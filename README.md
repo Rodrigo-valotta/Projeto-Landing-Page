@@ -30,7 +30,7 @@ O projeto foi construído como prática de desenvolvimento Frontend, utilizando 
 ## 🌐 Deploy
 
 Acesse o projeto online:  
-
+https://primeira-landing-page-frontend.netlify.app/
 
 ---
 
